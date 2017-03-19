@@ -130,8 +130,8 @@ dependencies {
 
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
-    compile("com.chibatching.kotpref:kotpref:2.0.0")
-    compile("com.chibatching.kotpref:initializer:2.0.0")
+    compile("com.chibatching.kotpref:kotpref:2.1.0")
+    compile("com.chibatching.kotpref:initializer:2.1.0")
 
     withAnalyticsCompile "com.google.android.gms:play-services-analytics:$play_version"
 
